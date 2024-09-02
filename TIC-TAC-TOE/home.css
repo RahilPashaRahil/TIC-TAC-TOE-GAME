@@ -1,0 +1,114 @@
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    body{
+        background-color:#1e1e1e;
+  
+     }
+    .dot1{
+        height: 80px;
+        width: 90px;
+        background-color: #853b3b;
+        border-radius: 50%;
+        position: absolute;
+        top: 150px;
+        left: 230px;
+    }
+    .dot2{
+        height: 80px;
+        width: 90px;
+        background-color: #853b3b;
+        border-radius: 50%;
+        position: absolute;
+        top: 180px;
+        left: 150px;
+    }
+    .dot3{
+        height: 80px;
+        width: 90px;
+        background-color: #853b3b;
+        border-radius: 50%;
+        position: absolute;
+        top: 180px;
+        left: 150px;
+    }
+    .into{
+        font-size: 60px;
+        color: palevioletred;
+    }
+    h1{
+        position: relative;
+        right: 180px;
+        bottom: 30px;
+        rotate: 5deg;
+    }
+    h2{
+        position: absolute;
+        font-size: 120px;
+        top: 150px;
+        right: 50px;
+        rotate: 5deg;
+    }
+    hr1{
+        height: 450px;
+        width: 30px;
+        background: linear-gradient(to top, #3acfd5 0%, #3a4ed5 100%);
+        background-color:grey;
+        position: absolute;
+        top: 150px;
+        left: 300px;
+        transform: rotate(15deg);
+        border-radius: 45px;
+    }
+    hr2{
+        height: 450px;
+        width: 30px;
+        background: linear-gradient(to top, #3acfd5 0%, #3a4ed5 100%);
+        background-color:grey;
+        position:fixed;
+        top: -25px;
+        left: 200px;
+        transform: rotate(0deg);
+        border-radius: 45px;
+    }
+    vr1{
+        height: 450px;
+        width: 30px;
+        background:linear-gradient(to top, #3acfd5 0%, #3a4ed5 100%);
+        background-color:grey;
+        position:absolute;
+        top: -90px;
+        right: 100px;
+        transform: rotate(78deg);
+        border-radius: 45px;
+    }
+    vr2{
+        height: 450px;
+        width: 30px;
+        background: linear-gradient(to top, #3acfd5 0%, #4756b9 100%);
+        background-color:grey;
+        position:absolute;
+        top: 15px;
+        left: 180px;
+        right: 50px; 
+         border-radius: 45px;    
+    } 
+    .home{
+        font-size: xx-large;
+        display: inline-block;
+
+
+    }
+    .name1{
+        color: #fff;
+
+    }
+    .name2{
+        color: rgb(4, 250, 4);
+    }
+    .name3{
+        color: #fff;
+    }
+    
+
